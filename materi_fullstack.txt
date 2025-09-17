@@ -1,0 +1,6 @@
+1. HTML
+2. CSS
+3. Java Script
+4. Data Base Mysql / Mariadb
+5. Reach JS
+6. Framework Laravel
